@@ -1,0 +1,8 @@
+{
+  "channel": "stable",
+  "version": "0.5.2",
+  "platform": "win-x64",
+  "asset": "SuperStudio-Intelligence-Engine-win-x64.zip",
+  "sha256": "PENDING_BUILD",
+  "minAppVersion": "0.5.2"
+}
