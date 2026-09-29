@@ -1,8 +1,8 @@
 {
   "channel": "stable",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "platform": "win-x64",
-  "asset_url": "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.5.4/SuperStudio-Intelligence-Engine-win-x64.zip",
-  "sha256": "124b0fa4e47c7bbb461beea9dd02f97aa243bfae9b43db4d53e73b1e82379312",
+  "asset_url": "",
+  "sha256": "PENDING_BUILD",
   "minAppVersion": "0.5.4"
 }
