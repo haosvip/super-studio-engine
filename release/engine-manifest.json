@@ -1,8 +1,8 @@
 {
+  "sha256": "078d5e9bbcc9095b0f26b8bf626de6f4f16be2c108c5915a99282c3e25b17a3f",
   "channel": "stable",
-  "version": "0.5.7",
-  "minAppVersion": "0.5.16",
+  "asset_url": "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.5.8/SuperStudio-Intelligence-Engine-win-x64-v0.5.8.zip",
   "platform": "win-x64",
-  "sha256": "86667dfc3e0ffda3820e43b087c4a05f05d7ad04b2508f98baebd4dd445a67f8",
-  "asset_url": "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.5.7/SuperStudio-Intelligence-Engine-win-x64-v0.5.7.zip"
+  "minAppVersion": "0.5.20",
+  "version": "0.5.8"
 }
