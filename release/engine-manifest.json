@@ -1,44 +1,44 @@
 {
-  "version": "0.6.4",
-  "asset_url": "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.6.4/SuperStudio-Intelligence-Engine-win-x64-v0.5.10.zip",
-  "defaultMode": "basic",
-  "minAppVersion": "0.6.24",
-  "sha256": "1a1914bd98fcf51cb19e81c2c7fbe87d363f020e97f4afb0614219a9eacb05ed",
-  "channel": "stable",
-  "engines": {
-    "basic": {
-      "sha256": "1a1914bd98fcf51cb19e81c2c7fbe87d363f020e97f4afb0614219a9eacb05ed",
-      "capabilities": [
-        "普通文字识别",
-        "PNG 图层提取",
-        "本地背景修补",
-        "常驻识别服务"
-      ],
-      "displayName": "基础引擎",
-      "available": true,
-      "expectedSizeMb": 454.0,
-      "assetUrl": "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.6.4/SuperStudio-Intelligence-Engine-win-x64-v0.5.10.zip",
-      "version": "0.5.10",
-      "mode": "basic",
-      "message": "约 454MB，首次下载后可直接切换使用。"
-    },
-    "professional": {
-      "sha256": "ececac6d1a62f42f3f579d80ebe806ec48622ea45b31cba7b57d878ae4e82d7a",
-      "capabilities": [
-        "双尺度高精度文字识别",
-        "字体样式与段落识别",
-        "表格候选识别",
-        "形状候选识别",
-        "图表候选识别",
-        "常驻识别服务"
-      ],
-      "displayName": "专业引擎",
-      "available": true,
-      "expectedSizeMb": 602.0,
-      "assetUrl": "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.6.4/SuperStudio-Intelligence-Engine-professional-win-x64-v0.6.4.zip",
-      "version": "0.6.4",
-      "mode": "professional",
-      "message": "约 602MB，首次下载后可直接切换使用。"
-    }
-  }
+    "version":  "0.6.4",
+    "asset_url":  "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.6.4/SuperStudio-Intelligence-Engine-win-x64-v0.5.10.zip",
+    "defaultMode":  "basic",
+    "minAppVersion":  "0.6.24",
+    "sha256":  "1a1914bd98fcf51cb19e81c2c7fbe87d363f020e97f4afb0614219a9eacb05ed",
+    "channel":  "stable",
+    "engines":  {
+                    "basic":  {
+                                  "sha256":  "1a1914bd98fcf51cb19e81c2c7fbe87d363f020e97f4afb0614219a9eacb05ed",
+                                  "capabilities":  [
+                                                       "普通文字识别",
+                                                       "PNG 图层提取",
+                                                       "本地背景修补",
+                                                       "常驻识别服务"
+                                                   ],
+                                  "displayName":  "基础引擎",
+                                  "available":  true,
+                                  "expectedSizeMb":  454,
+                                  "assetUrl":  "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.6.4/SuperStudio-Intelligence-Engine-win-x64-v0.5.10.zip",
+                                  "version":  "0.5.10",
+                                  "mode":  "basic",
+                                  "message":  "约 454MB，首次下载后可直接切换使用。"
+                              },
+                    "professional":  {
+                                         "sha256":  "ececac6d1a62f42f3f579d80ebe806ec48622ea45b31cba7b57d878ae4e82d7a",
+                                         "capabilities":  [
+                                                              "双尺度高精度文字识别",
+                                                              "字体样式与段落识别",
+                                                              "表格候选识别",
+                                                              "形状候选识别",
+                                                              "图表候选识别",
+                                                              "常驻识别服务"
+                                                          ],
+                                         "displayName":  "专业引擎",
+                                         "available":  true,
+                                         "expectedSizeMb":  602,
+                                         "assetUrl":  "https://github.com/haosvip/super-studio-engine/releases/download/engine-v0.6.4/SuperStudio-Intelligence-Engine-professional-win-x64-v0.6.4.zip",
+                                         "version":  "0.6.4",
+                                         "mode":  "professional",
+                                         "message":  "约 602MB，首次下载后可直接切换使用。"
+                                     }
+                }
 }
